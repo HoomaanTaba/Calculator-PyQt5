@@ -1,4 +1,4 @@
-# Calculator PyQt5
+# Calculator
 Operating system: Windows
 
 Software page:
